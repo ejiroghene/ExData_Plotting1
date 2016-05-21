@@ -1,3 +1,9 @@
+
+##My plotted graphs(plot1.png, plot2.png, plot3.png, plot4.png) are in the "figure" folder
+
+
+
+
 ## Introduction
 
 This assignment uses data from
